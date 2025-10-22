@@ -20,7 +20,7 @@ const Welcome = () => {
         <h4>
           Desenvolvido por{" "}
           <a
-            href="https://github.com/MarcosDavi-Dev/Quiz_App"
+            href="https://github.com/MarcosDavi-Dev/Quiz-React"
             target="_blank"
             rel="noopener noreferrer"
           >
